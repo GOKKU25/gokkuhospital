@@ -1,0 +1,46 @@
+{
+  "hospitals": [
+    {
+      "id": 1,
+      "name": "tvm medical college",
+      "patientCount": 550,
+      "location": "tvm"
+    },
+    {
+      "id": 2,
+      "name": "gokulam Medical Center",
+      "patientCount": 200,
+      "location": "attingal"
+    },
+    {
+      "id": 3,
+      "name": "sp fort Hospital",
+      "patientCount": 120,
+      "location": "tvm"
+    },
+    {
+      "id": 4,
+      "name": "chirayinkeezhu hospital",
+      "patientCount": 300,
+      "location": "Chirayinkeezhu"
+    },
+    {
+      "id": 5,
+      "name": "rv Health Center",
+      "patientCount": 10,
+      "location": "pulimoode"
+    },
+    {
+      "id": 6,
+      "name": "kottayam medical college",
+      "patientCount": 90,
+      "location": "kottayam"
+    },
+    {
+      "name": "kollam medical college",
+      "patientCount": 90,
+      "location": "kollam",
+      "id": 8
+    }
+  ]
+}
